@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/window_1.png</file>
+        <file>image/window_2.png</file>
+        <file>image/window_3.png</file>
+        <file>image/window_4.png</file>
+        <file>image/window_5.png</file>
+        <file>image/window_6.png</file>
+        <file>image/window_7.png</file>
+        <file>image/window_9.png</file>
+        <file>image/window_11.png</file>
+        <file>image/window_13.png</file>
+        <file>image/window_14.png</file>
+        <file>image/window_15.png</file>
+        <file>image/window_16.png</file>
+        <file>image/window_17.png</file>
+        <file>image/window_18.png</file>
+        <file>image/window_19.png</file>
+        <file>image/window_20.png</file>
+        <file>image/window_21.png</file>
+        <file>image/window_22.png</file>
+    </qresource>
+</RCC>

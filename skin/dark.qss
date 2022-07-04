@@ -1,0 +1,14 @@
+QWidget#centralwidget
+{
+    background-color: #284E8D;
+}
+
+QLabel
+{
+    background-color:#444444;
+}
+
+QLabel:hover
+{
+    border:1px solid #7DB5DE;
+}
